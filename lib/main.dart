@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Flutter Login Page',
       theme: ThemeData(
-        primaryColor: const Color.fromARGB(255, 182, 235, 193), // Hijau lembut
+        primaryColor: const Color.fromARGB(255, 182, 235, 193),
         colorScheme: ColorScheme.fromSeed(
           seedColor: const Color.fromARGB(255, 182, 235, 193),
         ),

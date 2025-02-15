@@ -113,7 +113,7 @@ class _DashboardPageState extends State<DashboardPage> {
           _buildInfoCards(),
           const SizedBox(height: 16),
           _buildSectionTitle("Tingkat Kesegaran"),
-          _buildChart(), // Menambahkan Grafik
+          _buildChart(), 
           const SizedBox(height: 16),
           _buildSectionTitle("Pengguna Terbaru"),
           _buildUserList(),
